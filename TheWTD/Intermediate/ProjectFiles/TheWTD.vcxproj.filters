@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheWTD.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{24B2CE03-E073-490B-B3B6-FBEC14B68EE2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheWTD.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheWTDEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{85405426-E5E8-468C-857B-C3FFB71B411C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheWTD">
+      <UniqueIdentifier>{933901F6-FF92-4169-A6EB-486805A25BE1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheWTD\SplitScreenController.cpp">
+      <Filter>Source\TheWTD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheWTD\SplitScreenController.h">
+      <Filter>Source\TheWTD</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheWTD\TheWTD.Build.cs">
+      <Filter>Source\TheWTD</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheWTD\TheWTD.cpp">
+      <Filter>Source\TheWTD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheWTD\TheWTD.h">
+      <Filter>Source\TheWTD</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
