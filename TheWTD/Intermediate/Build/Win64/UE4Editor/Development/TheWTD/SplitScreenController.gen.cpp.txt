@@ -1,5 +1,0 @@
-D:\Game Design\The-House-Where-They-Dwell\TheWTD\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\Definitions.TheWTD.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Game Design\The-House-Where-They-Dwell\TheWTD\Source\TheWTD/SplitScreenController.h
-d:\game design\the-house-where-they-dwell\thewtd\intermediate\build\win64\ue4editor\inc\thewtd\SplitScreenController.generated.h
