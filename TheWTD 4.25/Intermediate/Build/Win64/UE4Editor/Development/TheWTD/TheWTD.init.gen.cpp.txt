@@ -1,3 +1,0 @@
-C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\Definitions.TheWTD.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
