@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheWTD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\TheWTDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\SplitScreenController.cpp.obj"
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\TheWTD.cpp.obj"
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\SplitScreenController.gen.cpp.obj"
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\TheWTD.init.gen.cpp.obj"
+"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\Default.rc2.res"
+/OUT:"C:\Users\ryanj\OneDrive\Documents\GitHub\The-House-Where-They-Dwell\TheWTD 4.25\Intermediate\Build\Win64\UE4Editor\Development\TheWTD\UE4Editor-TheWTD.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheWTD
