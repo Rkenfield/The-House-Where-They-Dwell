@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheWTD",
+			"Path": "C:\\Users\\kayla\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Source\\TheWTD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheWTDEditor",
+			"Path": "C:\\Users\\kayla\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Source\\TheWTDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
