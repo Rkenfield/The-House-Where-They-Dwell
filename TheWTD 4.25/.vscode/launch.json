@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "TheWTD (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TheWTD Win64 Debug Build",
+			"program": "C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTD (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TheWTD Win64 DebugGame Build",
+			"program": "C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTD (Development)",
+			"request": "launch",
+			"preLaunchTask": "TheWTD Win64 Development Build",
+			"program": "C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTD (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "TheWTD Win64 Shipping Build",
+			"program": "C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTD (Test)",
+			"request": "launch",
+			"preLaunchTask": "TheWTD Win64 Test Build",
+			"program": "C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTDEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TheWTDEditor Win64 Debug Build",
+			"program": "D:\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\TheWTD.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTDEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TheWTDEditor Win64 DebugGame Build",
+			"program": "D:\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\TheWTD.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheWTDEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "TheWTDEditor Win64 Development Build",
+			"program": "D:\\Epic Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\TheWTD.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_4.25\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\ryanj\\Documents\\GitHub\\The-House-Where-They-Dwell\\TheWTD 4.25\\TheWTD.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "D:\\Epic Games\\UE_4.25"
+		}
+	]
+}

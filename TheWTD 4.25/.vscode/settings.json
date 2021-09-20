@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/.vs": true,
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/.vscode": true,
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/Content": true,
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/DerivedDataCache": true,
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/Intermediate": true,
+		"C:/Users/ryanj/Documents/GitHub/The-House-Where-They-Dwell/TheWTD 4.25/Saved": true
+	}
+}
